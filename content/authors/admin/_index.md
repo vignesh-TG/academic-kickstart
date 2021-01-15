@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include droplet and bubble dynamics, Marangoni flows of miscible interfaces, contact line dynamics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Contact line dynamics
+- Marangoni flows
+- Drop and Bubble dynamics
 
 education:
   courses:
