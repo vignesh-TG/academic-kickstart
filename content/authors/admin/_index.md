@@ -51,7 +51,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.in/citations?user=Rc1DpwoAAAAJ&hl=en
-- icon: research-gate
+- icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Vignesh_Thammanna_Gurumurthy
 #- icon: github
