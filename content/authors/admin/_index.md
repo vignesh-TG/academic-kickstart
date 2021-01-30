@@ -45,15 +45,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:vigneshtg@gmail.com".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.in/citations?user=Rc1DpwoAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+- icon: research-gate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Vignesh_Thammanna_Gurumurthy
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,5 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Hello,
-I am working as a postdoctoral fellow with Prof. Pushpavanam at the Department of Chemical Engineering, Indian Institute of Technology Madras. My research here focusses on understanding the thermocapillary migration of drops in an unbounded, quiescent liquid.
+I am a postdoctoral at the Department of Chemical Engineering, Indian Institute of Technology Madras. I am primarily interested in understanding multiphase flows using computational and theoretical techniques.
