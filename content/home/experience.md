@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Chennai"
   date_start = "2018-12-26"
   date_end = ""
-  description = """
+  description = """"""
   
 
 [[experience]]
